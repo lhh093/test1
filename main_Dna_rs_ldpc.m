@@ -1,7 +1,6 @@
 % LDPC码在DNA纳米孔信道下的matlab仿真
 % 实现功能: 在论文[LDPC_Codes_for_Portable_DNA_Storage]的基础上添加rs级联结构，并且在译码过程中添加反馈结构
-% 编码者: 刘海航 华南师范大学        
-% 时间: [25.6.15]
+
 
 clear all
 close all
