@@ -1,6 +1,6 @@
 
 % LDPC码在DNA纳米孔信道下的matlab仿真
-% 复现论文: [LDPC_Codes_for_Portable_DNA_Storage]
+% 论文: [LDPC_Codes_for_Portable_DNA_Storage]
 
 clear all
 close all
